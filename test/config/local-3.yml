@@ -1,0 +1,6 @@
+
+Customers:
+  altDbPort1: 2209
+
+auth:
+  secret: !!binary 'AAECAwQF'
